@@ -1,7 +1,7 @@
 // script.js 
 
 const words = [ 
-	"Crush",  
+	"Crush"  
 ]; 
 
 // Respective list of hints 
