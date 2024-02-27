@@ -1,20 +1,12 @@
 // script.js 
 
 const words = [ 
-	"Nigga", 
-	"VonisNigga", 
-	"GeraldDeniega", 
-	"GigaNigga", 
-	"IronNigga", 
+	"Crush",  
 ]; 
 
 // Respective list of hints 
 const hints = [ 
-	"ClassMate", 
-	"ClassMate NKO", 
-	"ClassMate NKO", 
-	"ClassMate NKO", 
-	"ClassMate NKO", 
+	"Wala juy pag-asa" 	
 ]; 
 
 // Initialize display word 
